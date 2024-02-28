@@ -5,16 +5,12 @@
 - Giới thiệu môn học
 - Thông tin cá nhân
 # GIỚI THIỆU MÔN HỌC #
-- Tên môn học: Phân Tích và Thiết Kế Thuật Toán
-- Mã môn học: CS112
-- Lớp học: CS112.N21.KHCL
-- Năm học: 2022-2023
-- Giảng viên: Tên môn học: MÁY HỌC - MACHINE LEARNING
-Mã môn học: CS114
-Mã lớp: CS114.L22.KHCL
-Năm học: HK2 (2020 - 2021)
-Giảng viên: PGS.TS Lê Đình Duy
-- Ths. Phạm Nguyễn Trường An
+- Tên môn học: MÁY HỌC - MACHINE LEARNING
+- Mã môn học: CS114
+- Lớp học: CS114.O21.KHCL
+- Năm học: 2023-2024
+- Giảng viên: PGS.TS Lê Đình Duy
+-           Ths. Phạm Nguyễn Trường An
 # THÔNG TIN CÁ NHÂN
 | STT |   MSSV   |      Họ và Tên      |          Email         |
 |:---:|:--------:|:-------------------:|:----------------------:|
