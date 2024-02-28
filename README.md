@@ -9,8 +9,9 @@
 - Mã môn học: CS114
 - Lớp học: CS114.O21.KHCL
 - Năm học: 2023-2024
-- Giảng viên: PGS.TS Lê Đình Duy
--           Ths. Phạm Nguyễn Trường An
+- Giảng viên:
+  + PGS.TS. Lê Đình Duy
+  + Ths. Phạm Nguyễn Trường An
 # THÔNG TIN CÁ NHÂN
 | STT |   MSSV   |      Họ và Tên      |          Email         |
 |:---:|:--------:|:-------------------:|:----------------------:|
