@@ -22,9 +22,9 @@
 |:---:|:--------:|:-------------------:|:----------------------:|
 | 1   | 21522028 | Nguyễn Như Hà       | 21522028@gm.uit.edu.vn |
 # Bài tập Wecode  
-- [Week 1: 8 Problems](https://github.com/nguyennhuhha/CS114.O21.KHCL/blob/main/Wecode/CS114_Wecode_Assignment1.ipynb)
-- [Week 2: 10 Problems](https://github.com/nguyennhuhha/CS114.O21.KHCL/blob/main/Wecode/CS114_Wecode_Assignment2.ipynb)
-- [Week 3: 5 Problems](https://github.com/nguyennhuhha/CS114.O21.KHCL/blob/main/Wecode/CS114_Wecode_Assignment3.ipynb)
+- [Week 1](https://github.com/nguyennhuhha/CS114.O21.KHCL/blob/main/Wecode/CS114_Wecode_Assignment1.ipynb): 8 Problems.
+- [Week 2](https://github.com/nguyennhuhha/CS114.O21.KHCL/blob/main/Wecode/CS114_Wecode_Assignment2.ipynb) : 10 Problems.
+- [Week 3](https://github.com/nguyennhuhha/CS114.O21.KHCL/blob/main/Wecode/CS114_Wecode_Assignment3.ipynb) : 5 Problems.
 # Bài tập quá trình  
 - [Lab 01](https://github.com/nguyennhuhha/CS114.O21.KHCL/tree/main/LAB01)
 # Đồ án cuối kỳ  
