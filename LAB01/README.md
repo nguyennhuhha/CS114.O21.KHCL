@@ -7,4 +7,4 @@
 | ------ |:-------------:| ----------------------:|--------------------------------------------------------:|-------------------------:
 | 1      | 21522057      | Hồ Thị Khánh Hiền      |[khienht](https://github.com/khienht)                    |21522057@gm.uit.edu.vn   |
 | 2      | 21522028      | Nguyễn Như Hà          |[nguyennhuhha](https://github.com/nguyennhuhha)          |21522028@gm.uit.edu.vn   |
-| 3      | 20521628      | Huỳnh Khải Nam         |                                                         |20521628@gm.uit.edu.vn   |
+| 3      | 20521628      | Huỳnh Khải Nam         |[ImNamzz](https://github.com/ImNamzz)           |20521628@gm.uit.edu.vn   |
